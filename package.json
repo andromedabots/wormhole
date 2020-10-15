@@ -17,6 +17,9 @@
     "shortid": "^2.2.15",
     "sqlite3": "^4.2.0",
     "telegraf": "^3.38.0",
+    "twitch": "^4.2.6",
+    "twitch-auth": "^4.2.6",
+    "twitch-chat-client": "^4.2.6",
     "unb-api": "^1.1.1"
   },
   "engines": {
